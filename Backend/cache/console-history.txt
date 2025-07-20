@@ -1,0 +1,12 @@
+exit();
+exit()
+exit;
+exit
+console.log("ETH/USD Price:", ethPrice.toString());
+const ethPrice = await priceFetcher.getETHPrice();
+ price
+// Fetch ETH
+console.log("BTC/USD Price:", btcPrice.toString());
+const btcPrice = await priceFetcher.getBTCPrice();
+// Fetch BTC price
+const PriceFetcher = await ethers.getContractFactoconst priceFetcher = await PriceFetcher.attach("0x05e25d1290E3aE9F1BdE7971732554Ce949FfaE3");
